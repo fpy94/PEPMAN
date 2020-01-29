@@ -1,2 +1,1 @@
-# RNApausing
-This is a repository of deep learning model for RNA pausing prediction
+# PEPMAN-\underline{P}olymerase II \underline{E}longation \underline{P}ausing \underline{M}odeling through \underline{A}ttention-based deep neural \underline{N}etwork
